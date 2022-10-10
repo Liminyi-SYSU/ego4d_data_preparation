@@ -1,4 +1,4 @@
-# Ego4d_data_preparation
+# Ego4d_Data_Preparation
 Capturing frames and drawing bounding-boxes from given videos
 
 The DATA-FOLDER should be built like
