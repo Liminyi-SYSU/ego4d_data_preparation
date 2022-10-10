@@ -16,3 +16,5 @@ The DATA-FOLDER should be built like
 ```
 
 All videos are stored at the path---(/rscratch/data/ego4d_data/pre_pnr_post_frames/full_scale)
+
+All captured frames should be arranged in chronological order when creating their image_id
